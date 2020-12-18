@@ -19,5 +19,5 @@ getLocalTime() - returns localtime by accepting date as string and format
 
 ## Note
 
-> To get all controllers with their methods use - $this->controllerlist->getControllers();
-> controllerlist is defined in application/libraries and updated to autoload.php
+* To get all controllers with their methods use - $this->controllerlist->getControllers();
+* controllerlist is defined in application/libraries and updated to autoload.php
