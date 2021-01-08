@@ -25,7 +25,7 @@ date_default_timezone_set('UTC');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://crm.sachinartani.com';
+$config['base_url'] = '{BASE_URL}';
 /*
 |--------------------------------------------------------------------------
 | Index File
